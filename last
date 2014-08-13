@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<head>
+	<title>Apple</title>
+  <link href='http://fonts.googleapis.com/css?family=Open' rel='stylesheet' type='text/css'>
+  <style>
+     header {
+      background: url('http://goo.gl/Zj8lDA ');
+      background-size: cover;
+      height: 400px;
+      margin: -10px;
+      padding: 1px 0px 250px 0px;
+      }
+    
+    .header {
+      font-family: 'Open Sans', sans-serif;
+      text-align: center;
+      color: white;
+      height: 550px;
+      padding: 50px 30px 50px 30px;
+      }
+      
+    #subheader{
+   	  padding: 200px 0px 0px 0px;
+	    }
+      
+     h1 {
+      font-size: 50px;
+    
+      }
+	  
+	  p {
+	  	font-size: 20px;
+	  }
+      
+    ul {
+      padding: 0px 0px 0px 0px;
+      margin: 1px 0px 0px 1px;
+      }
+      
+    li {
+      display: inline;
+      margin: none;
+      }
+      
+    li img {
+     background-size: cover;
+    float: left;
+	  width: 337px;
+    height: 200px;
+      margin: 0px 0.5px 0px 0.5px;  
+      }
+      
+  </style>
+</head>
+
+<body>
+	<header>
+  <div class="header">
+    <div id="subheader">
+	<h1>You're more powerful than you think.</h1>
+  <h1>iPhone 5<span>s</span></h1>
+	<p>Watch the film "Parenthood"</p>
+    </div>
+  </div>
+	
+   <ul>
+    <li><img src="http://images.apple.com/home/images/promo_ios8.jpg"/></li>
+    <li><img src="http://images.apple.com/home/images/promo_dreams.jpg"/></li>
+    <li><img src="http://images.apple.com/home/images/promo_college_reminder.jpg"/></li>
+    <li><img src="http://images.apple.com/home/images/promo_yosemite.jpg"/></li>
+  </ul> 
+	</header>
+</body>
+</html>
